@@ -1,6 +1,6 @@
 # HomeWork1
 
-To complete the levels, linux commands are used and screen shots are attach here.
+Screen shots of linux commands that are used to complete the levels are shown below.
 
 **Bandit Level 0**
 
@@ -68,3 +68,5 @@ To complete the levels, linux commands are used and screen shots are attach here
 
 ![level 15-1](https://cloud.githubusercontent.com/assets/18345069/14378948/4c80bbca-fd95-11e5-9508-640a91c430df.png)
 ![level 15-2](https://cloud.githubusercontent.com/assets/18345069/14378949/4c86184a-fd95-11e5-816d-0b11b3b0dc3f.png)
+
+**Issues faced** : To complete some levels I had to do additional google searches and refer more reading materials. 
