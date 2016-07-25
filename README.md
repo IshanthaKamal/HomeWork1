@@ -1,4 +1,4 @@
-# HomeWork1
+# HomeWork 1
 
 Screen shots of linux commands that are used to complete the levels are shown below.
 
